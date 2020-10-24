@@ -9,3 +9,4 @@ Current Components:
 
 * VoCore 2 - Symbol and Print Layout
 * BQLZR 1.8in LCD TFT Display With SD-Card-Reader - Symbol
+* 207E-BG00-R Micro USB Connector - Print Layout
